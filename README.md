@@ -11,7 +11,7 @@ website by following href links in the HTML page.
 * Download the code zip file
 * Import project as Maven
 * Run the project as Java application
-* Output file will be created with html links & media links in the pages.
+* Output file will be created with html links & media links
 
 
 *Enhancements - 
